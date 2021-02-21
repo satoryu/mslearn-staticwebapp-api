@@ -27,7 +27,6 @@ This project was created to help represent a fundamental app written with Vue. T
    npm run serve
    ```
 
-
 ## Resources
 
 ### Azure Static Web Apps
